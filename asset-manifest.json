@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Vlab_Sorting/static/css/main.b85bd1af.css",
+    "main.js": "/Vlab_Sorting/static/js/main.3c0feaca.js",
+    "static/js/787.5b3210af.chunk.js": "/Vlab_Sorting/static/js/787.5b3210af.chunk.js",
+    "static/media/img2.png": "/Vlab_Sorting/static/media/img2.33ed16ec8d6e78b34915.png",
+    "static/media/LOGO.png": "/Vlab_Sorting/static/media/LOGO.2d0ef365f79b2c369b3d.png",
+    "static/media/ExperimentsIcon.png": "/Vlab_Sorting/static/media/ExperimentsIcon.9d2432def26dcab40449.png",
+    "static/media/vlab.jpg": "/Vlab_Sorting/static/media/vlab.f34fcba5c9c3501ad06b.jpg",
+    "static/media/DSA.jpg": "/Vlab_Sorting/static/media/DSA.15662c0de61f4b6c52bb.jpg",
+    "static/media/img1.png": "/Vlab_Sorting/static/media/img1.a559fc325fa7dfb85bd4.png",
+    "static/media/PracticeIcon.png": "/Vlab_Sorting/static/media/PracticeIcon.48403327a20ec59f3e08.png",
+    "static/media/feedback.png": "/Vlab_Sorting/static/media/feedback.8f01caf25cb6823b18c0.png",
+    "static/media/img3.png": "/Vlab_Sorting/static/media/img3.0b7ba0f3677d3b5d182d.png",
+    "index.html": "/Vlab_Sorting/index.html",
+    "main.b85bd1af.css.map": "/Vlab_Sorting/static/css/main.b85bd1af.css.map",
+    "main.3c0feaca.js.map": "/Vlab_Sorting/static/js/main.3c0feaca.js.map",
+    "787.5b3210af.chunk.js.map": "/Vlab_Sorting/static/js/787.5b3210af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b85bd1af.css",
+    "static/js/main.3c0feaca.js"
+  ]
+}
